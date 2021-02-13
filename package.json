@@ -1,0 +1,24 @@
+{
+  "name": "get-io-stat",
+  "version": "1.0.0",
+  "description": "Getting iostat information for i3pystatus indication of disk utilization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spair2k/get-io-stat.git"
+  },
+  "keywords": [
+    "iostat",
+    "disk",
+    "usage"
+  ],
+  "author": "Sergey Politsyn <spair2k@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spair2k/get-io-stat/issues"
+  },
+  "homepage": "https://github.com/spair2k/get-io-stat#readme"
+}
